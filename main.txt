@@ -9,19 +9,8 @@ sub One()
   
   And another two;
   
-  // It's important
-  Additional tree-metod code  without patch (patch is not importanat)!
-  
+  Additional tree-metod code  without patch;
+ 
 }
 
-sub Two()
-{
-    // Simple decision
-    Make it easy!
-}
-
-sub Three()
-{
-    New optimization code;
-}
 
