@@ -9,6 +9,9 @@ sub One()
   
   And another two;
   
+  // It's important
+  Additional important code!
+  
 }
 
 sub Two()
