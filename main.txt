@@ -8,6 +8,8 @@ sub One()
   Get it in release!
   
   // Фигак-фигак, и в релиз!
+  
+  And another one;
 
 }
 
