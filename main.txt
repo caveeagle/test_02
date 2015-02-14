@@ -10,28 +10,12 @@ sub One()
   And another two;
   
   // It's important
-  Additional important code!
+  Additional simple-and-easy code
   
 }
 
 sub Two()
 {
-    something test method;
-    
-    secon apply in this method;
-    
-    and some testing code is there;
-    
-    some big code
-    
-    .........
-    
-    .........
-    
-    .........
-
-    .........
-
-    big code end
-
+    // Simple decision
+    Make it easy!
 }
