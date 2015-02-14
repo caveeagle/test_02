@@ -3,14 +3,12 @@ sub One()
 {
   some method in release;
   
-  it's some error, but not found;
+  Error fixsed;
   
-  Get it in release!
+  Get it in release, with fix;
   
-  // Фигак-фигак, и в релиз!
+  And another two;
   
-  And another one;
-
 }
 
 sub Two()
