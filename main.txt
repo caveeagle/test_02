@@ -14,5 +14,21 @@ sub One()
 sub Two()
 {
     something test method;
+    
+    secon apply in this method;
+    
+    and some testing code is there;
+    
+    some big code
+    
+    .........
+    
+    .........
+    
+    .........
+
+    .........
+
+    big code end
 
 }
