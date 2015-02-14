@@ -1,2 +1,12 @@
 
-sub One();
+sub One()
+{
+  some method in release;
+
+}
+
+sub Two()
+{
+    something test method;
+
+}
