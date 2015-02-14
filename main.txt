@@ -10,7 +10,7 @@ sub One()
   And another two;
   
   // It's important
-  Additional tree-metod code with patch;
+  Additional simple-and-easy code  with patch (patch is importanat)!
   
 }
 
@@ -19,9 +19,3 @@ sub Two()
     // Simple decision
     Make it easy!
 }
-
-sub Three()
-{
-    New optimization code;
-}
-
